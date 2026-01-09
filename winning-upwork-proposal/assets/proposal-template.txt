@@ -1,0 +1,21 @@
+[Professional greeting: "Hi" or "Hi [Client Name]" if mentioned in job]
+
+[Attention-Grabbing Opening with relevant question or solution hint - non-technical language]
+
+[Establish understanding of their core problem/need]
+
+[Introduce yourself and relevant experience - mention technologies only if in job posting]
+
+[Outline your approach for completing the job]
+
+[Call to action for further discussion]
+
+---
+
+**Customization Notes:**
+- Start with "Hi" or "Hi [Client Name]" if name mentioned in job
+- Replace opening with relevant question or solution hint based on job type
+- Ensure first paragraph avoids technical terms
+- Personalize experience section with relevant examples
+- Only mention technologies if they appear in the job posting
+- Keep total length between 200-400 words
