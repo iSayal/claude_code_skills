@@ -232,12 +232,14 @@ When contributing a new skill, please ensure:
 
 ## Changelog
 
-### v1.1.0 (February 2025)
+### v1.1.0 (February 2026)
 - Added Literature Review Builder skill
-- Added PDF Assessment Generator skill
 - Improved documentation across all skills
 
-### v1.0.0 (January 2025)
+### v1.0.1 (January 2026)
+- Added PDF Assessment Generator skill
+
+### v1.0.0 (January 2026)
 - Initial release with 3 core skills
 - Client Email Writer, English Text Improver, Winning Upwork Proposal
 
